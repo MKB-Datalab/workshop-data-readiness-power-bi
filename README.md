@@ -1,4 +1,4 @@
-<img align="left" width="200" height="75" src="https://github.com/dpbac/workshop-data-readiness-power-bi/blob/master/images/SCjRGgjT_400x400.jpg">
+<img align="left" width="100" height="100" src="https://github.com/dpbac/workshop-data-readiness-power-bi/blob/master/images/SCjRGgjT_400x400.jpg">
 
 # Program Data Readiness - Workshop Introduction to Power BI
 <img align="right" width="100" height="75" src="https://github.com/dpbac/workshop-data-readiness-power-bi/blob/master/images/index.jpg">
