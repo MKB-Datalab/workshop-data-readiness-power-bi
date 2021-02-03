@@ -27,9 +27,9 @@ The subset with selected tables can be download from the folder [AdventureWorksD
 
 # Pre-requisites
 
-Install Power BI
-Download subset of AdventureWorksDW2019 (available in this repository)
-Take a quick look on the data to have an idea what the data is about
+* Install Power BI
+* Download subset of AdventureWorksDW2019 (available in this repository)
+* Take a quick look on the data to have an idea what the data is about
 
 
 
