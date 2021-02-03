@@ -21,6 +21,7 @@ For the hands-on part we will work with a subset of the
 The Adventure Works company represents a bicycle manufacturer that sells bicycles and accessories to global markets. The company has their data warehouse data 
 stored in an Azure SQL Database. 
 
+
 The subset with selected tables can be download from the folder [AdventureWorksDW_subset](https://github.com/MKB-Datalab/workshop-data-readiness-power-bi/tree/master/AdventureWorksDW_subset).
 
 
