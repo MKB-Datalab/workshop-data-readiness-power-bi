@@ -17,7 +17,7 @@ Furthermore, during this session we introduce some real datasets and point out s
 For the hands-on part we will work with a subset of the 
 [Adventure Works Data Warehouse 2019]( https://github.com/microsoft/sql-server-samples/releases/download/adventureworks/AdventureWorksDW2019.bak).
 
-<img align="left" width="150" height="150" src="https://github.com/dpbac/workshop-data-readiness-power-bi/blob/master/images/SCjRGgjT_400x400.jpg"> 
+<img align="left" width="100" height="100" src="https://github.com/MKB-Datalab/workshop-data-readiness-power-bi/blob/master/images/adventure-works-logo-150x150.png"> 
 The Adventure Works company represents a bicycle manufacturer that sells bicycles and accessories to global markets. The company has their data warehouse data 
 stored in an Azure SQL Database. 
 
