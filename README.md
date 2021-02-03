@@ -23,6 +23,7 @@ stored in an Azure SQL Database.
 
 The subset with selected tables can be download from the folder [AdventureWorksDW_subset](https://github.com/MKB-Datalab/workshop-data-readiness-power-bi/tree/master/AdventureWorksDW_subset).
 
+
 # Pre-requisites
 
 Install Power BI
