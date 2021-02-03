@@ -3,7 +3,7 @@
 
 # Program Data Readiness - Workshop Introduction to Power BI
 
-
+<br/><br/>
 This repository is part of the MKB Datalab  `Data Readiness Program`.  It contains support material used during the Power BI session offered to 
 students participating of this program.
 
