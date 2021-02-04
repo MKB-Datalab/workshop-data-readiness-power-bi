@@ -1,5 +1,5 @@
 <img align="left" width="150" height="150" src="https://github.com/MKB-Datalab/workshop-data-readiness-power-bi/blob/master/images/SCjRGgjT_400x400.jpg">
-<img align="right" width="100" height="100" src="https://github.com/MKB-Datalab/workshop-data-readiness-power-bi/blob/master/images/index.jpg">
+<img align="right" width="100" height="80" src="https://github.com/MKB-Datalab/workshop-data-readiness-power-bi/blob/master/images/index.jpg">
 
 # Program Data Readiness - Workshop Introduction to Power BI
 
