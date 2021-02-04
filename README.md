@@ -32,8 +32,3 @@ The subset with selected tables can be download from [AdventureWorksDW_subset](h
 :white_check_mark: Download subset of AdventureWorksDW2019 (available in this repository)
 
 :white_check_mark: Take a quick look at the data to have an idea what the data is about
-
-
-
--------------------------------------
-[:arrow_backward: **Back to repository main page**](https://github.com/dpbac/test_mkb_knowledge_repo)
